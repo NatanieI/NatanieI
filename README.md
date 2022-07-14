@@ -5,7 +5,7 @@
 👍 I made a couple of projects, including clock, calculator and more
 
 
-🤖 I know a few programming languages, like
+🤖 I know a few programming languages, like:
  - html
  - css
  - js
