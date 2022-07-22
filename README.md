@@ -19,6 +19,6 @@
 💬 I can speak two languages - Polish (native) and English
 
 
-📭 You can contact with me by mail:
+📭 You can contact with me by email:
 
 📧 natanielg256@gmail.com
