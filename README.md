@@ -10,8 +10,6 @@
  - css
  - js
  - python
- - c++
- - c#
  
 
 💾 I’m currently learning JavaScript
