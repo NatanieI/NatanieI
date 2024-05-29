@@ -1,4 +1,4 @@
-🤗 Hello, I’m Nataniel Gadziński
+🤗 Hello, I’m Nataniel Gadziński, I'm 18 yo
 
 💻 I want to become a website programmer
 
